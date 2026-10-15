@@ -240,4 +240,4 @@ Carrion is offered as a full free version, ensuring you have access to all featu
 Download Carrion now and unleash your inner monster!
 
 ---
-**Last updated:** 2026-10-15 03:20:46 UTC
+**Last updated:** 2026-10-15 08:53:04 UTC
